@@ -15,3 +15,5 @@ Colaboradores:
 Ciro Kyushima
 Akaz Marinho
 Ewerton Quaresma
+
+obs: e necessario baixar os pesos para a analise. voce pode baixar os pesos no site oficial do YOLO(https://pjreddie.com/darknet/yolo/). o nome do arquivo é: yolov3.weights
